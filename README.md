@@ -11,5 +11,4 @@
 以下是游戏截图
 
 ![截图1]( https://github.com/jackchengyujia/HappySnake/raw/master/images/截屏1.jpg )
-
 ![截图2]( https://github.com/jackchengyujia/HappySnake/raw/master/images/截屏2.jpg )
