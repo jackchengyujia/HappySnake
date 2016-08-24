@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">快乐贪吃蛇</string>
+    <string name="over_msg">得分：%d\n双击屏幕再来一次</string>
+</resources>

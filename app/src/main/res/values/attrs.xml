@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DirectionKeys">
+        <!--向左按钮按下时的颜色-->
+        <attr name="leftColor" format="color" />
+        <!--向上按钮按下时的颜色-->
+        <attr name="upColor" format="color" />
+        <!--向右按钮按下时的颜色-->
+        <attr name="rightColor" format="color" />
+        <!--向下按钮按下时的颜色-->
+        <attr name="downColor" format="color" />
+    </declare-styleable>
+</resources>
